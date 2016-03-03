@@ -24,5 +24,5 @@
 * 其它
  * 预加载 
 
-* [什么是F.I.S](https://github.com/fis-dev/fis/wiki/什么是F.I.S)
+* [详情看此博客](http://blog.csdn.net/it_man/article/details/12843295)
   
